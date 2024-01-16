@@ -37,7 +37,7 @@
     
       <div class="form-group">
         <label for="pass" class="form-label">Password</label>
-        <input type="password" name="pass"  class="form-control">
+        <input type="text" name="pass"  class="form-control">
       </div>    
 
       <div class="form-group">
