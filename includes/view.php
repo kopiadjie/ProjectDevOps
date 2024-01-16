@@ -6,7 +6,7 @@
     <table class="table table-striped table-bordered table-hover">
       <thead class="table-dark">
         <tr>
-          <th  scope="col" >ID</th>
+          <!-- <th  scope="col" >ID</th> -->
           <th  scope="col">Username</th>
           <th  scope="col">Email</th>
           <th  scope="col"> Password</th>

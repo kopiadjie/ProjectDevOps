@@ -49,7 +49,7 @@
     
       <div class="form-group">
         <label for="pass" >Password</label>
-        <input type="password" name="pass"  class="form-control" value="<?php echo $pass  ?>">
+        <input type="text" name="pass"  class="form-control" value="<?php echo $pass  ?>">
       </div>    
 
       <div class="form-group">
